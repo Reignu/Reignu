@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Adam
 
-🚀 **Full-Stack Developer** | **Java & Spring Enthusiast**
+🚀 **Full-Stack Developer** | **Java & Spring Enthusiast**<br>
 💡 Passionate about building scalable systems, clean code, and solving real-world problems.  
 🌱 Currently learning: Advanced Spring Boot
 
